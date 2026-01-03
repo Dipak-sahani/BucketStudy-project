@@ -10,6 +10,24 @@ Employees can log in, view their profile, and update limited personal informatio
 
 The application is built using React for the frontend, Node.js + Express for the backend, and MongoDB for database management.
 
+
+### Demo
+
+![short](./Images/img1.png )
+![short](./Images/img2.png )
+![short](./Images/img3.png )
+![short](./Images/img4.png )
+![short](./Images/img5.png )
+![short](./Images/img6.png )
+![short](./Images/img7.png )
+![short](./Images/img8.png )
+![short](./Images/img9.png )
+
+
+
+
+
+
 ### 🛠 Tech Stack
 Frontend
 
